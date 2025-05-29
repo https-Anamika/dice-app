@@ -9,7 +9,7 @@ void main() {
         decoration: BoxDecoration(
           gradient: LinearGradient(
             colors: [
-                Colors.pink.shade200,
+                const Color.fromARGB(255, 223, 102, 143),
                 Colors.pink.shade50
             ],
             begin:Alignment.topCenter,
